@@ -1,2 +1,2 @@
-# Publication-in-Progress
-TWITTER’S SENTIMENT ANALYSIS AND VISUALIZATION OF EXPLORING TEXT
+# Publication-in-Progress Abstract- TWITTER’S SENTIMENT ANALYSIS AND VISUALIZATION OF EXPLORING TEXT
+The objective of the study is to apply NLP algorithm to analyze twitter’s text in order to understand people’s feeling and attitude on social media. Therefore, we will use NLP algorithm to analyze the accuracy of sentiments. This study also used some indicators to evaluate the models, including recall, precision, and F1 score. For a result, NLP algorithm has the accuracy of 79 percentage for prediction of twitter’s text.
